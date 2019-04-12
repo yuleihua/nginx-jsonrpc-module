@@ -1,0 +1,2 @@
+# nginx-jsonrpc-module
+jsonrpc
